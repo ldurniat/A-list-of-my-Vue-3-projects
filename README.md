@@ -9,6 +9,7 @@ Easy
 - [Countdown-Time-in-Vue](https://github.com/ldurniat/Countdown-Time-in-Vue),
 - [Quiz-App](https://github.com/ldurniat/Quiz-App),
 - [Dropdown-Search-And-Filter-Component](https://github.com/ldurniat/Dropdown-Search-And-Filter-Component)
+- [Music-App-Vue](https://github.com/ldurniat/Music-App-Vue)
 
 
 Medium 
